@@ -37,10 +37,12 @@ body {
 .one p:first-child {
   padding: 0 15px;
   font-weight: bold;
+  color: black;
 }
 
 .one p {
   padding: 0 15px;
+  color: rgb(183, 183, 183);
 }
 
 .two img {
