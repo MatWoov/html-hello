@@ -1,0 +1,55 @@
+
+h1 {
+  text-align: center;
+  background: white;
+  margin: 0px;
+  padding: 10px 0;
+}
+
+body {
+  background: rgb(232, 232, 232);
+  margin: 0;
+  font-family: arial;
+  font-size: 15px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container {
+  margin-top: 40px;
+}
+
+.box {
+  width: 500px;
+  background: white;
+}
+
+.one {
+  font-size: small;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  }
+
+.one p:first-child {
+  padding: 0 15px;
+  font-weight: bold;
+}
+
+.one p {
+  padding: 0 15px;
+}
+
+.two img {
+  width: 100%;
+}
+
+.three p {
+  padding: 15px;
+  margin: 0px;
+  width: 100%;
+  margin-bottom: 45px;
+}
